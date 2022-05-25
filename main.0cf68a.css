@@ -35,3 +35,14 @@
   transform-origin: bottom center;
   transition: transform 0.5s ease-out;
   }
+
+.article-inner h1.article-title_code_ant, .article-title_code_ant {
+  color: #000000;
+  margin-left: 0;
+  font-weight: 300;
+  line-height: 35px;
+  margin-bottom: 20px;
+  font-size: 32px;
+  transition: color .3s
+ }
+  
